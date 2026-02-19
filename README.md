@@ -1,16 +1,55 @@
-## Hi there 👋
+# Olá, eu sou o Luís Felipe! 👋
 
-<!--
-**lfvianadf/lfvianadf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer & AI Automation Engineer
+Estudante de Sistemas de Informação na **UFRN** e apaixonado por criar soluções inteligentes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+
+Aqui estão as tecnologias que domino e utilizo no meu dia a dia:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,docker,react,postgres,openai&theme=dark" />
+  </a>
+</p>
+
+- **Backend:** Node.js com foco em NestJS e Prisma.
+- **Frontend:** React e Next.js para interfaces modernas e responsivas.
+- **Infra:** Docker para containerização.
+- **Automação:** Especialista em fluxos com n8n e integração de LLMs (OpenAI/Anthropic).
+- **Banco de Dados:** Experiência com SQL (PostgreSQL via Supabase).
+
+---
+
+## 🚀 Projetos Atuais
+
+Atualmente estou focado no desenvolvimento de soluções robustas:
+
+* **🐾 The Paw**: Sistema completo de gestão para Petshops utilizando NestJS, Prisma e PostgreSQL.
+* **📰 Blog Rodrigo Ferreira**: Portal de notícias focado no ABC Futebol Clube (meu time do coração! ⚪⚫).
+* **📡 Blog Paulo Santana**: Blog de notícias focado na região do Rio Grande do Norte.
+* **🎮 Arquivo Alpha**: Ferramenta de análise de skins e agentes para Valorant.
+
+---
+
+## 💼 Experiência Profissional
+
+* **Full-Stack Developer & AI Automation**: Projetos independentes e consultoria técnica.
+* **Ex-Dat4force**: Atuei como Desenvolvedor RPA e Low-code (FlutterFlow/JS).
+* **Ex-ESIG Software**: Analista de Sistemas e UX.
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="left">
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luís Felipe" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=vision-friendly-dark" alt="Status do GitHub" />
+</p>
